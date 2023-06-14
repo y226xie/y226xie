@@ -7,4 +7,3 @@
 - 🌱 I'm currently exploring algorithm && React;
 - ✏️ I'm looking for any new idea for my project;
 - 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: yuanxie@outlook.com
